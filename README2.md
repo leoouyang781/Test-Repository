@@ -1,1 +1,1 @@
-This file is simply meant to act as a database for everything I follow and work on.
+This repository is meant for tracking things I've been reading and learning.
